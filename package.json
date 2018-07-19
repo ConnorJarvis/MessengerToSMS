@@ -1,0 +1,24 @@
+{
+  "name": "messengertosms",
+  "version": "0.0.1",
+  "description": "Relays Facebook Messenger to SMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorJarvis/MessengerToSMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnorJarvis/MessengerToSMS/issues"
+  },
+  "homepage": "https://github.com/ConnorJarvis/MessengerToSMS#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "facebook-chat-api": "^1.6.0",
+    "twilio": "^3.18.0"
+  }
+}
