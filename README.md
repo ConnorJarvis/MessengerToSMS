@@ -7,3 +7,4 @@ Born out of a need to be able to have a group conversation with one party having
 Theoretically all you need to do to get started as far as I know:
 - `Fill out config.example.js and save as config.js`
 - `npm install`
+- `node index.js`
